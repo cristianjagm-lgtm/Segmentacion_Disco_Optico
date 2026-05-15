@@ -1,0 +1,19 @@
+# Datasets (Evita subir las imágenes pesadas a GitHub)
+Set_a_img/
+Set_a_mask/
+Set_b_img/
+Set_b_mask/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración de VS Code y Jupyter
+.ipynb_checkpoints/
+.vscode/
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
