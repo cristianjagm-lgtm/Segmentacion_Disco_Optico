@@ -1,8 +1,4 @@
-# Datasets (Evita subir las imágenes pesadas a GitHub)
-Set_a_img/
-Set_a_mask/
-Set_b_img/
-Set_b_mask/
+
 
 # Archivos temporales de Python
 __pycache__/
