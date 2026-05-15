@@ -1,4 +1,4 @@
-asdqwe# Segmentación de Disco Óptico mediante Redes Profundas (U-Net)
+# Segmentación de Disco Óptico mediante Redes Profundas (U-Net)
 
 Este proyecto implementa una solución de aprendizaje profundo para la segmentación semántica del disco óptico en imágenes de retina. Desarrollado como parte del trabajo de ingeniería en la **Universidad Industrial de Santander (UIS)**.
 
